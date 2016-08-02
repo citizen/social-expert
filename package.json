@@ -112,5 +112,10 @@
     "redux-saga": "^0.9.1",
     "reloading": "^0.0.6",
     "roboto-fontface": "^0.4.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/zalmoxisus/social-expert/issues"
+  },
+  "main": "gulpfile.babel.js",
+  "license": "ISC"
 }
